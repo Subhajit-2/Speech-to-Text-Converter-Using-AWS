@@ -32,3 +32,6 @@ Centralized storage and easy retrieval of audio and text data,
 Reduced manual effort and faster processing time,
 Scalable solution capable of handling large audio volumes &
 Enhanced usability of audio content through searchable text.
+
+
+https://github.com/user-attachments/assets/93b90b24-4954-4c49-b765-7e8e1161a2ec
